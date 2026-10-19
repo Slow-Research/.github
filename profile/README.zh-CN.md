@@ -14,7 +14,7 @@
 
 | 项目 | 研究方向 |
 | --- | --- |
-| [huggingass](https://github.com/Slow-Research/huggingass) | 科研情绪支持与建设性反馈。鼓励可以先到，证据仍需细看。 |
+| [Hugging Ass](https://github.com/Slow-Research/huggingass) | **Artificial Sycophancy Systems · 人工谄媚系统。** 收集并研究 AI 拍马屁。The future of AI is Ass. |
 | [abandon is all you need](https://github.com/Slow-Research/abandon-is-all-you-need) | 判断何时停止、暂停或转向，并保存失败尝试留下的知识。 |
 
 两个项目先从开放文档与可复用模板开始。欢迎带着问题、案例或修改意见加入。

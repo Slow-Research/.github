@@ -14,7 +14,7 @@ Our research agenda includes slow research acceleration, massively parallel slow
 
 | Project | Research agenda |
 | --- | --- |
-| [huggingass](https://github.com/Slow-Research/huggingass) | Researcher support and constructive feedback. A little encouragement; a closer look at the evidence. |
+| [Hugging Ass](https://github.com/Slow-Research/huggingass) | **Artificial Sycophancy Systems.** Collecting and studying AI flattery. The future of AI is Ass. |
 | [abandon is all you need](https://github.com/Slow-Research/abandon-is-all-you-need) | Knowing when to stop, pause, or change direction—and keeping what failed attempts taught us. |
 
 Both projects are starting with open documents and reusable templates. Bring a question, an example, or a correction.
