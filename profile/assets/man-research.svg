@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">MAN! 科研！</title>
+  <desc id="desc">Slow Research. What can I say? Make Slow Research Faster!</desc>
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="260" rx="16"/></clipPath>
+    <style>
+      .cursor { animation: blink 2s steps(1, end) infinite; }
+      @keyframes blink { 0%, 70%, 100% { opacity: 1; } 71%, 99% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="260" fill="#241335"/>
+    <g fill="none" stroke="#FDB927" stroke-width="1.5" opacity=".18">
+      <circle cx="1135" cy="130" r="174"/>
+      <circle cx="1135" cy="130" r="106"/>
+      <path d="M961 130H1309M1135 -44V304M1012 7Q1186 130 1012 253M1258 7Q1084 130 1258 253"/>
+    </g>
+    <g font-family="Arial, 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif">
+      <text x="48" y="43" fill="#D2BDD9" font-size="15" font-weight="700" letter-spacing="3">SLOW RESEARCH</text>
+      <text x="1152" y="43" text-anchor="end" fill="#D2BDD9" font-size="15" letter-spacing="1">WHAT CAN I SAY?</text>
+      <text x="44" y="151" fill="#FDB927" font-size="88" font-weight="900" letter-spacing="-3">MAN! <tspan fill="#FFF8EB">科研！</tspan><tspan class="cursor">_</tspan></text>
+      <text x="48" y="209" fill="#FFF8EB" font-size="27">Make Slow Research Faster!</text>
+      <text x="1152" y="218" text-anchor="end" fill="#FDB927" font-size="17" letter-spacing="3">慢！</text>
+    </g>
+    <path d="M48 239H1152" stroke="#FDB927" stroke-opacity=".3"/>
+    <path d="M48 239H200" stroke="#FDB927" stroke-width="3"/>
+  </g>
+</svg>

@@ -1,38 +1,25 @@
-# Slow Research
+<img src="https://raw.githubusercontent.com/Slow-Research/.github/main/profile/assets/man-research.svg" width="100%" alt="Slow Research — MAN! 科研！ Make Slow Research Faster!" />
 
-**慢科研效率提升工作组**
-
-### Make Slow Research Faster! 🚀🚀🚀
-
+**慢科研效率提升工作组**<br>
 [English](https://github.com/Slow-Research/.github/blob/main/profile/README.md) · **简体中文**
-
-我们研究如何高效开展慢科研。通过更好的科学工具、方法共享与协作，在有限的时间里，完成更充分的思考。
-
-重点研究方向包括慢科研加速、大规模并行慢科研，以及及时放弃已被证明行不通的东西。
 
 ## 社区项目
 
-| 项目 | 研究方向 |
+| 项目 | 正在研究 |
 | --- | --- |
-| [Hugging Ass](https://github.com/Slow-Research/huggingass) | **Artificial Sycophancy Systems · 人工谄媚系统。** 收集并研究 AI 拍马屁。The future of AI is Ass. |
-| [abandon is all you need](https://github.com/Slow-Research/abandon-is-all-you-need) | 判断何时停止、暂停或转向，并保存失败尝试留下的知识。 |
-
-两个项目先从开放文档与可复用模板开始。欢迎带着问题、案例或修改意见加入。
+| [Hugging **Ass**](https://github.com/Slow-Research/huggingass) | **High praise. Low detectability.**<br>Stealth Ass：探索自然、克制的学术邮件拍马屁。 |
+| [Abandon Is All You Need](https://github.com/Slow-Research/abandon-is-all-you-need) | **Less sunk cost. More research.**<br>及时放弃无效路线，认真留下已有发现。 |
 
 ## 社区宣言
 
-1. **坚持高质量慢科研。** 自动化重复劳动，共享有用工具，把省下来的时间用于理解问题，持续提升慢科研质量。
-2. **推进大规模并行慢科研。** 分享代码、证明、实验和失败经验，让其他人能够检查、复用并继续推进。
-3. **科学评估慢科研效率。** 记录假设、成本与结果。流程跑得再快，也需要值得研究的问题和经得起检查的证据。
-4. **提高无效路线退出效率。** 提前写下什么证据会改变判断；路线行不通时，留下原因，为下一次探索腾出时间。
-5. **维护文明有序的慢科研环境。** 就事论事，允许分歧，提供具体反馈。禁止人身攻击、刷屏和编造研究结果。
+- 以最快的速度，实现高质量的慢。
+- 推进大规模并行慢科研，共享工具与发现。
+- 无效路线及时退出，有用经验认真留下。
 
 慢科研是一项长期事业，时间紧、任务重。
 
-## 加入工作组
+[完整社区宣言](https://github.com/Slow-Research/.github/blob/main/MANIFESTO.zh-CN.md) · [原倡议与联署存档](https://github.com/Slow-Research/statement)
 
-欢迎在任一项目提交 Issue，分享科研工具、遇到的瓶颈、实用模板，或一条值得记录的失败路线。从一个具体的小贡献开始即可。
+---
 
-## 背景资料
-
-原慢科研倡议及联署记录保存在 [statement](https://github.com/Slow-Research/statement)。以上为本社区自行撰写的宣言；原联署对应原倡议。
+<p align="right"><b>慢吧，out.</b></p>
