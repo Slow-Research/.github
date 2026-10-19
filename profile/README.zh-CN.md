@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Slow-Research/.github/main/profile/assets/man-research.svg" width="100%" alt="Slow Research — MAN! 科研！ Make Slow Research Faster!" />
 
 **慢科研效率提升工作组**<br>
-[English](https://github.com/Slow-Research/.github/blob/main/profile/README.md) · **简体中文**
+[English](https://github.com/Slow-Research/.github/blob/main/profile/README.md) · **简体中文** · [官网 ↗](https://slow-research.github.io/?lang=zh)
 
 ## 社区项目
 
